@@ -1,0 +1,9 @@
+name: grading-env
+channels:
+  - conda-forge
+  - conda-main
+  - conda-shared
+dependencies:
+  - python=3.9
+  - pandas=2.1.*
+  - scikit-learn=1.5.*

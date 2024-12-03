@@ -1,0 +1,7 @@
+**/synthcc_train_set
+**/ha_train_set
+**/grading_results
+**/bth-results-*
+**/__pycache__
+ha_example_submission/eval.sh
+synthcc_example_submission/eval.sh
